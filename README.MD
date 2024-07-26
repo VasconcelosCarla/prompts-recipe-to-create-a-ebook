@@ -14,9 +14,11 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 
 - [ChatGPT](https://chat.openai.com/)
 - [Leonardo.Ai](https://www.leonardo.ai/)
-- [Leonardo.Ai](https://www.leonardo.ai/)
 - [Canva](https://www.canva.com/)
-- [Pikaso](https://www.freepik.com/pikaso/upscalerf)
+- [Pikaso](https://www.freepik.com/pikaso/)
+- [Copilot](https://copilot.microsoft.com/)
+- [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+
 
 ## 🧠 Prompts
 
@@ -34,6 +36,12 @@ Em alguns momentos sugeri a I.A. que utilizasse algumas referências de autores 
 |  Ação   | Prompt                                                                                                      |
 |:-------:|-------------------------------------------------------------------------------------------------------------|
 | Título  | Uma figura estilizada ou ilustração de uma pessoa em um momento de euforia ou conquista, simbolizando uma pequena vitória. |
+
+### copilot
+
+|  Ação   | Prompt                                                                                                      |
+|:-------:|-------------------------------------------------------------------------------------------------------------|
+| Título  | Uma mulher no alto de uma montanha à noite com os braços levantados simbolizando vitoria. |
 
 Imagem melhorada no Pikaso
 ## ✨ Features
