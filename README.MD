@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="./assets/capa.jpg">
+    <img width="300" src="./assets/capa.jpg">
 </p>
 
 # Projeto EBOOK Gerado por I.A.
