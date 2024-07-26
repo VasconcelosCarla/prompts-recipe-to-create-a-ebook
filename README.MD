@@ -14,8 +14,9 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 
 - [ChatGPT](https://chat.openai.com/)
 - [Leonardo.Ai](https://www.leonardo.ai/)
+- [Leonardo.Ai](https://www.leonardo.ai/)
 - [Canva](https://www.canva.com/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint?market=af)
+- [Pikaso](https://www.freepik.com/pikaso/upscalerf)
 
 ## 🧠 Prompts
 
@@ -24,14 +25,16 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 |   Ação   | Prompt                                                                                                                      |
 |:--------:|-----------------------------------------------------------------------------------------------------------------------------|
 |  Título  | Crie um título de um eBook sobre estratégias para o sucesso pessoal com TDAH, focado em métodos que aumentem a dopamina de forma gradativa, com um tom encorajador e motivacional. |
-| Conteúdo | Faça um texto para eBook, com foco em estratégias para gerenciamento pessoal para pessoas com TDAH, trazendo métodos com recompensas para o aumento de dopamina gradativamente, para que uma pessoa com TDAH consiga estabelecer e concluir metas. Liste os principais métodos. |
+| Conteúdo | Faça um texto para eBook, com foco em estratégias para gerenciamento pessoal para pessoas com TDAH, trazendo métodos com recompensas para o aumento de dopamina gradativamente, para que uma pessoa com TDAH consiga estabelecer e concluir metas. Liste os principais métodos. {REGRAS} Explique sempre de maneira simples Deixe o texto enxuto Traga exemplos reais como encontrados no livro Mais Rápido e Melhor de Charles Duhigg e em outros com temas semelhantes Crie um nome criativo para o ebook|
+
+Em alguns momentos sugeri a I.A. que utilizasse algumas referências de autores que eu gosto, como Charles Duhigg. É importante filtrar o que a I.A. vai escrevendo e analisar se existe algum erro.
 
 ### Leonardo.Ai
 
 |  Ação   | Prompt                                                                                                      |
 |:-------:|-------------------------------------------------------------------------------------------------------------|
 | Título  | Uma figura estilizada ou ilustração de uma pessoa em um momento de euforia ou conquista, simbolizando uma pequena vitória. |
-
+Imagem melhorada no Pikaso
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
@@ -46,7 +49,7 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice ou Canva para diagramação.
 
-## ✨ Autora
+## 👩‍💻 Autora
 
 <p>
     <img align="left" margin="10" width="80" src="https://avatars.githubusercontent.com/u/88123492?v=4" />
