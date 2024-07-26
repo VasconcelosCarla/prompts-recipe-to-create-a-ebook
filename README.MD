@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./assets/capa.jpg">
+    <img width="400" src="./assets/capa.jpg">
 </p>
 
 # Projeto EBOOK Gerado por I.A.
@@ -15,6 +15,7 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 - [ChatGPT](https://chat.openai.com/)
 - [Leonardo.Ai](https://www.leonardo.ai/)
 - [Canva](https://www.canva.com/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint?market=af)
 
 ## 🧠 Prompts
 
@@ -45,7 +46,7 @@ Projeto com o objetivo de gerar um eBook digital utilizando ferramentas de IA. T
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice ou Canva para diagramação.
 
-## 👩‍💻 Autora
+## ✨ Autora
 
 <p>
     <img align="left" margin="10" width="80" src="https://avatars.githubusercontent.com/u/88123492?v=4" />
