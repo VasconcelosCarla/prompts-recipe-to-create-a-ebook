@@ -34,6 +34,7 @@ Em alguns momentos sugeri a I.A. que utilizasse algumas referências de autores 
 |  Ação   | Prompt                                                                                                      |
 |:-------:|-------------------------------------------------------------------------------------------------------------|
 | Título  | Uma figura estilizada ou ilustração de uma pessoa em um momento de euforia ou conquista, simbolizando uma pequena vitória. |
+
 Imagem melhorada no Pikaso
 ## ✨ Features
 
